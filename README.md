@@ -22,9 +22,8 @@ Here I attach the box plot below. Although, it seems like there still are outlie
 
 Box plot for all data (before data clean)
 Feat0 Model A
-![Image text]
-(https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelA.png
-Feat0 Model B)
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelA.png)
+Feat0 Model B
 https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelB.png
 Feat1 Model A	
 https://github.com/Lucasw29/Tagup/blob/main/Img/Feat1%20ModelA.png
