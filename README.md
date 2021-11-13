@@ -7,46 +7,39 @@ After the data is clean, I transfer all the data into an array and convert them 
 
 Here I attach the box plot below. Although, it seems like there still are outliers. I’ll still leave them there. They can provide more information for our analysts.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Box plot for all data (before data clean)
 Feat0 Model A
 ![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelA.png)
 Feat0 Model B
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelB.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat0%20ModelB.png)
 Feat1 Model A	
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat1%20ModelA.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat1%20ModelA.png)
 Feat1 Model B   
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat1%20ModelB.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat1%20ModelB.png)
 Feat2 Model A
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat2%20ModelA.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat2%20ModelA.png)
 Feat2 Model B
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat2%20ModelB.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat2%20ModelB.png)
 Feat3 Model A
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat3%20ModelA.png
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat3%20ModelA.png)
 Feat3 Model B   
-https://github.com/Lucasw29/Tagup/blob/main/Img/Feat3%20ModelB.png
-
-
-
-
-
-
-
-
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Feat3%20ModelB.png)
 
 Box plot for all data (after data clean)
-Feat0 Model A						Feat0 Model B
-    Feat1 Model A						Feat1 Model B    
-Feat2 Model A						Feat2 Model B     Feat3 Model A						Feat3 Model B    
+Feat0 Model A
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat0%20ModelA.png)
+Feat0 Model B
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat0%20ModelB.png)
+Feat1 Model A	
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat1%20ModelA.png)
+Feat1 Model B   
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat1%20ModelB.png)
+Feat2 Model A
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat2%20ModelA.png)
+Feat2 Model B
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat2%20ModelB.png)
+Feat3 Model A
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat3%20ModelA.png)
+Feat3 Model B   
+![image](https://github.com/Lucasw29/Tagup/blob/main/Img/Cleaned%20Feat3%20ModelB.png)
+
